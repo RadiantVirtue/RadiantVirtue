@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RadiantVirtue
-- 👀 I’m interested in AI, NLP, and video games!
-- 🌱 I’m currently learning large language models - specifically transformer architecture.
+- 👀 I’m interested in AI, specifically RL and NLP
+- 🌱 I’m currently heircarchal reinforcement learning systems.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me - Via discord @radiant_virtue.
+- 📫 How to reach me - via discord @radiant_virtue.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Cats can't taste anything sweet.
 
