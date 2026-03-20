@@ -1,8 +1,6 @@
 # hey, i'm rhian
 
-i like to build stuff that learns.
-
-final-year **CS & AI** student at the University of Bath
+i'm a final-year **CS & AI** student at the University of Bath
 
 ## what i'm working on
 
