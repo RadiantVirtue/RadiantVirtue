@@ -1,10 +1,10 @@
 # hey, i'm rhian
 
-i'm a final-year **CS & AI** student at the University of Bath
+i'm a final-year CS & AI student at the University of Bath
 
 ## what i'm working on
 
-**dissertation** - building a comparative interpretability framework for credit assignment in deep RL. i'm analysing how PPO and SAC process success and failure at the gradient level, using gradient opposition scoring, coherence analysis, and representational similarity tracking across training. i developed **moment-of-reward analysis** which is a measurement that tests whether off-policy methods systematically underweight preparatory actions in favour of immediate-reward states.
+**dissertation** - building a comparative interpretability framework for credit assignment in deep RL. i'm analysing how PPO and Rainbow process success and failure at the gradient level, using gradient opposition scoring, coherence analysis, and representational similarity tracking across training. i developed **moment-of-reward analysis** which is a measurement that tests whether off-policy methods systematically underweight preparatory actions in favour of immediate-reward states.
 
 **job matching system** - LLM-powered pipeline that reasons about implicit job preferences rather than keyword matching. if you say "i don't want to get dirty", it should know warehouse work is a bad fit even when the listing doesn't mention it.
 
